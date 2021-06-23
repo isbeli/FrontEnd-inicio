@@ -1,0 +1,22 @@
+h1 {
+    text-shadow: 5px 5px 5px #FF0000;
+    text-align: center;
+}
+
+h2 {
+
+    background-color: aliceblue;
+    text-align: center;
+}h3 {
+
+    background-color: aliceblue;
+    text-align: center;
+}
+body {
+    background-color: rgb(92, 194, 235);
+}
+
+.centralizado {
+    text-align: center;
+    
+}
